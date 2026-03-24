@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<script type="text/babel">
+  // 👇 TON CODE EXISTANT AU-DESSUS
+
+  
 <html lang="fr">
 <head>
 <meta charset="UTF-8"/>
@@ -808,6 +812,8 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   });
 }
+const root = ReactDOM.createRoot(document.getElementById("root"));
+  root.render(<App />);
 </script>
 </body>
 </html>
