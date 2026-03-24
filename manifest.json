@@ -2,7 +2,7 @@
   "name": "JJ Farm's — Cultivation Intelligence",
   "short_name": "JJ Farm's",
   "description": "Dashboard de culture hydroponique intelligent",
-  "start_url": "./index.html",
+  "start_url": "/JJ-Farms/",
   "display": "standalone",
   "background_color": "#f7f3ec",
   "theme_color": "#b8952a",
